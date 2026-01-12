@@ -1,33 +1,33 @@
 # Arshid Vaishnavi Portfolio
 
 This is my personal portfolio website where I showcase my skills, projects, and achievements.
-It is built using HTML and CSS with a clean and organized layout.
+It is built using ** HTML and CSS ** with a clean and organized layout.
 
 ---
 
 ## Sections Included:
 
-Home
+- Home
 
-About Me
+- About Me
 
-Skills
+- Skills
 
-Projects
+- Projects
 
-Achievements
+- Achievements
 
-Contact
+- Contact
 
 ---
 
 ## Technologies Used:
 
-HTML
+- HTML
 
-CSS
+- CSS
 
-The website is simple, easy to navigate, and displays all the sections clearly.
+> The website is simple, easy to navigate, and displays all the sections clearly.
 
 ---
 
@@ -38,11 +38,11 @@ https://arshidvaishnavi.github.io/Portfolio/
 
 ## How to View Locally:
 
-Download the repository from GitHub
+1. Download the repository from GitHub
 
-Open the file `index.html` in any web browser
+2.Open the file `index.html` in any web browser
 
-The portfolio will load and display all sections
+3. The portfolio will load and display all sections
 
 ---
 
