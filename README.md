@@ -40,7 +40,7 @@ https://arshidvaishnavi.github.io/Portfolio/
 
 1. Download the repository from GitHub
 
-2.Open the file `index.html` in any web browser
+2. Open the file `index.html` in any web browser
 
 3. The portfolio will load and display all sections
 
