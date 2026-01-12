@@ -6,15 +6,10 @@ It is built using HTML and CSS with a clean and organized layout.
 ### Sections Included:
 
 Home
-
 About Me
-
 Skills
-
 Projects
-
 Achievements
-
 Contact
 
 ### Technologies Used:
@@ -25,7 +20,7 @@ CSS
 
 The website is simple, easy to navigate, and displays all the sections clearly.
 
-### live Demo:
+### Live Demo:
 https://arshidvaishnavi.github.io/Portfolio/
 
 
