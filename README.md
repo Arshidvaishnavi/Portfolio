@@ -6,10 +6,15 @@ It is built using HTML and CSS with a clean and organized layout.
 ### Sections Included:
 
 Home
+
 About Me
+
 Skills
+
 Projects
+
 Achievements
+
 Contact
 
 ### Technologies Used:
