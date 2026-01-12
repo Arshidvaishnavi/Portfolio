@@ -1,7 +1,7 @@
 # Arshid Vaishnavi Portfolio
 
 This is my personal portfolio website where I showcase my skills, projects, and achievements.
-It is built using ** HTML and CSS ** with a clean and organized layout.
+It is built using **HTML and CSS** with a clean and organized layout.
 
 ---
 
